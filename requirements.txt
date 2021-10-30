@@ -1,7 +1,6 @@
 cryptography
-zipfile
-sqlite3
 pywin32
 shutil
 colorama
 requests
+zipfile
