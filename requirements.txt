@@ -1,6 +1,6 @@
 cryptography
 pywin32
-shutil
 colorama
 requests
+shutil
 zipfile
